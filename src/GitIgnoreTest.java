@@ -14,7 +14,7 @@ public class GitIgnoreTest {
 
         String joinedString = str1 + str2;
         System.out.println("The joined string is: Result- " + joinedString);
-
+        System.out.print("this is the result which is not perfect it is from branch");
         scanner.close();
     }
 }
